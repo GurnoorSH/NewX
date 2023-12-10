@@ -1,0 +1,10 @@
+body{
+    background-color: #292a2d;
+}
+
+.cards-container {
+    justify-content: space-between;
+    flex-wrap: wrap;
+    row-gap: 20px;
+    align-items: start;
+}
