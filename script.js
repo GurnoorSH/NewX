@@ -55,6 +55,7 @@ const searchButton = document.getElementById('search-button')
 const searchText =document.getElementById('search-text')
 
 searchButton.addEventListener('click', ()=> {
+    const query = searchText.value ;
     if (!query) return;
     fetchNews(query);
 })

@@ -8,3 +8,9 @@ body{
     row-gap: 20px;
     align-items: start;
 }
+
+.navimg img{
+    width: 107px;
+    height: 92px;
+    border-radius: 80%;
+}
