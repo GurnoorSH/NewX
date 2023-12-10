@@ -1,8 +1,12 @@
-# newx
+# Newx
 
 
 NewsX is a project news app for crypto finance related news .
 using newsapi.org api to fetch the news its customised for crypto . 
+
+
+https://github.com/GurnoorSH/newx/assets/74511204/b29b28f9-c74f-4e2d-b733-db19e81014ef
+
 
  
 Certainly! Here's an updated version of the Readme with the provided GitHub repository link:
