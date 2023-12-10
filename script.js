@@ -4,6 +4,12 @@ const url = "https://newsapi.org/v2/everything?q="
 
 window.addEventListener('load', () => fetchNews("Finance"))
 
+
+function reload (){
+    window.location.reload();
+}
+
+
 async function fetchNews(query) {
     const res = await fetch(`${url}${query}&apiKey=${api_key}`)
     const data = await res.json();
